@@ -1,0 +1,26 @@
+C:\Users\JOSE\source\repos\Proyecto_Herramientas\Proyecto_Herramientas\bin\Debug\Proyecto_Herramientas.exe.config
+C:\Users\JOSE\source\repos\Proyecto_Herramientas\Proyecto_Herramientas\bin\Debug\Proyecto_Herramientas.exe
+C:\Users\JOSE\source\repos\Proyecto_Herramientas\Proyecto_Herramientas\bin\Debug\Proyecto_Herramientas.pdb
+C:\Users\JOSE\source\repos\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.csproj.AssemblyReference.cache
+C:\Users\JOSE\source\repos\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.InicoSesion.resources
+C:\Users\JOSE\source\repos\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.Properties.Resources.resources
+C:\Users\JOSE\source\repos\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.csproj.GenerateResource.cache
+C:\Users\JOSE\source\repos\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.csproj.CoreCompileInputs.cache
+C:\Users\JOSE\source\repos\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.exe
+C:\Users\JOSE\source\repos\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.pdb
+C:\Users\JOSE\source\repos\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.RegistroUsuario.resources
+C:\Users\JOSE\source\repos\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.Bienes.resources
+C:\Users\JOSE\source\repos\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.Opciones.resources
+D:\Semestre III\Herramientas\Proyecto\Proyecto_Herramientas\Proyecto_Herramientas\bin\Debug\Proyecto_Herramientas.exe.config
+D:\Semestre III\Herramientas\Proyecto\Proyecto_Herramientas\Proyecto_Herramientas\bin\Debug\Proyecto_Herramientas.exe
+D:\Semestre III\Herramientas\Proyecto\Proyecto_Herramientas\Proyecto_Herramientas\bin\Debug\Proyecto_Herramientas.pdb
+D:\Semestre III\Herramientas\Proyecto\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.csproj.AssemblyReference.cache
+D:\Semestre III\Herramientas\Proyecto\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.Bienes.resources
+D:\Semestre III\Herramientas\Proyecto\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.Opciones.resources
+D:\Semestre III\Herramientas\Proyecto\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.RegistroUsuario.resources
+D:\Semestre III\Herramientas\Proyecto\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.InicoSesion.resources
+D:\Semestre III\Herramientas\Proyecto\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.Properties.Resources.resources
+D:\Semestre III\Herramientas\Proyecto\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.csproj.GenerateResource.cache
+D:\Semestre III\Herramientas\Proyecto\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.csproj.CoreCompileInputs.cache
+D:\Semestre III\Herramientas\Proyecto\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.exe
+D:\Semestre III\Herramientas\Proyecto\Proyecto_Herramientas\Proyecto_Herramientas\obj\Debug\Proyecto_Herramientas.pdb
